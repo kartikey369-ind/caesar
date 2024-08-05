@@ -19,7 +19,7 @@ example :- plaintext "H E L L O" + key(1)	= ciphertext "I F M M P"  here the key
 
 
 
-![cipher1](https://github.com/user-attachments/assets/98ee4ba7-d779-44c3-9a12-40f9b903cfde)
+<img width="951" alt="Screenshot 2024-08-05 at 2 15 46 PM" src="https://github.com/user-attachments/assets/b3b8da28-9b7e-4db8-a6fd-a77f44c06d3b">
 
 
 
@@ -37,6 +37,9 @@ example :- plaintext "H E L L O" + key(1)	= ciphertext "I F M M P"  here the key
 2) copy and paste the .c file
 3) run it
 4) follow the next steps
+
+
+
 
 
 # How to use command line argument ??? #
