@@ -19,6 +19,12 @@ example :- plaintext "H E L L O" + key(1)	= ciphertext "I F M M P"  here the key
 
 
 
+![cipher1](https://github.com/user-attachments/assets/98ee4ba7-d779-44c3-9a12-40f9b903cfde)
+
+
+
+
+
 
 
 
